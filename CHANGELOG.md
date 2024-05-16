@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/lyhlg/release-please-turbo/compare/v1.0.0...v1.0.1) (2024-05-16)
+
+
+### Bug Fixes
+
+* web component hello3 to hello4 ([829bf43](https://github.com/lyhlg/release-please-turbo/commit/829bf43bfbbb546d6691d445fc9d8d8730e24dde))
+
 ## 1.0.0 (2024-05-16)
 
 
