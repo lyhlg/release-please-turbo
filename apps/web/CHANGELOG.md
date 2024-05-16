@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/lyhlg/release-please-turbo/compare/web@1.1.0...web@1.2.0) (2024-05-16)
+
+
+### Features
+
+* both web and docs is modified ([8ae1809](https://github.com/lyhlg/release-please-turbo/commit/8ae18092168ca56f9e3015e45cfd1d25692ecf9a))
+
 ## [1.1.0](https://github.com/lyhlg/release-please-turbo/compare/web-1.0.0...web@1.1.0) (2024-05-16)
 
 
