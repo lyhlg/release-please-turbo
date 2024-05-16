@@ -7,6 +7,14 @@
     "apps/docs": {
       "release-type": "node",
       "package-name": "docs"
+    },
+    "apps/docs/subPackage/web": {
+      "release-type": "node",
+      "package-name": "docs-web"
+    },
+    "apps/docs/subPackage/webview": {
+      "release-type": "node",
+      "package-name": "docs-webview"
     }
   },
   "tag-separator": "@",
