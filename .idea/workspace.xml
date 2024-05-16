@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e64d187-6bc9-4852-b7d9-702e14c729d7" name="Changes" comment="fix: web page component test">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +33,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ian/test",
     "last_opened_file_path": "/Users/ian/ian-dev/practices/release-please-turbo",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "ts.external.directory.path": "/Users/ian/ian-dev/practices/release-please-turbo/apps/web/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
@@ -49,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715861908095</updated>
       <workItem from="1715861909465" duration="232000" />
-      <workItem from="1715862149528" duration="247000" />
+      <workItem from="1715862149528" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="fix: web page component test">
       <option name="closed" value="true" />
@@ -59,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715862341060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: web page component test">
+      <option name="closed" value="true" />
+      <created>1715862407368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715862407368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
