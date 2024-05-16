@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e64d187-6bc9-4852-b7d9-702e14c729d7" name="Changes" comment="fix: web page component test">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release-please.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/release-please.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/docs/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/docs/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715861908095</updated>
       <workItem from="1715861909465" duration="232000" />
-      <workItem from="1715862149528" duration="3332000" />
+      <workItem from="1715862149528" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="fix: web page component test">
       <option name="closed" value="true" />
