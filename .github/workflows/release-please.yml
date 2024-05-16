@@ -26,7 +26,11 @@ jobs:
           manifest-file: release-please-manifest.json
           include-component-in-tag: true
           path: .
-            # The logic below handles the npm publication:
+      - name: Print Release Created
+        if: always()
+        run: |
+          echo "Release created: ${{ steps.release.outputs.release_created }}"
+      # The logic below handles the npm publication:
       - uses: actions/checkout@v4
         # these if statements ensure that a publication only occurs when
         # a new release is created:
