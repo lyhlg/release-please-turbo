@@ -9,6 +9,7 @@
       "package-name": "docs"
     }
   },
+  "tag-separator": "@",
   "monorepo-tags": true,
   "include-v-in-tag": false
 }
