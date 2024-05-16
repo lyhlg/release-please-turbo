@@ -13,7 +13,7 @@ function Gradient({
   conic?: boolean;
   className?: string;
 }): JSX.Element {
-  console.log('hello4')
+  console.log('hello5')
   return (
     <span
       className={[
