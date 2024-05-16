@@ -1,1 +1,1 @@
-{"apps/web":"1.2.0","apps/docs":"1.4.0"}
+{"apps/web":"1.2.0","apps/docs":"1.4.0","apps/docs/subPackage/web":"1.0.0","apps/docs/subPackage/webview":"1.0.0"}
