@@ -29,7 +29,18 @@ jobs:
       - name: Print Release Created
         if: always()
         run: |
-          echo "Release created: ${{ steps.release.outputs.release_created }}"
+          echo "Release Created: ${{ steps.release.outputs.release_created }}"
+          echo "Paths Released: ${{ steps.release.outputs.paths_released }}"
+          echo "PRs Created: ${{ steps.release.outputs.prs_created }}"
+          echo "PR: ${{ steps.release.outputs.pr }}"
+          echo "PRs: ${{ steps.release.outputs.prs }}"
+          echo "Upload URL: ${{ steps.release.outputs.upload_url }}"
+          echo "HTML URL: ${{ steps.release.outputs.html_url }}"
+          echo "Tag Name: ${{ steps.release.outputs.tag_name }}"
+          echo "Major Version: ${{ steps.release.outputs.major }}"
+          echo "Minor Version: ${{ steps.release.outputs.minor }}"
+          echo "Patch Version: ${{ steps.release.outputs.patch }}"
+          echo "SHA: ${{ steps.release.outputs.sha }}"
       # The logic below handles the npm publication:
       - uses: actions/checkout@v4
         # these if statements ensure that a publication only occurs when
