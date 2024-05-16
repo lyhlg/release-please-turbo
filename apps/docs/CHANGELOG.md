@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/lyhlg/release-please-turbo/compare/docs@1.1.0...docs@1.2.0) (2024-05-16)
+
+
+### Features
+
+* docs component console log 2 ([10214f9](https://github.com/lyhlg/release-please-turbo/commit/10214f9f518cd89ba1e0a7e4b90309f7ef8136a6))
+
 ## [1.1.0](https://github.com/lyhlg/release-please-turbo/compare/docs-1.0.0...docs@1.1.0) (2024-05-16)
 
 
