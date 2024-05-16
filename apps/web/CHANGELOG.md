@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/lyhlg/release-please-turbo/compare/web-1.0.0...web@1.1.0) (2024-05-16)
+
+
+### Features
+
+* web component console log 9 ([5ee5289](https://github.com/lyhlg/release-please-turbo/commit/5ee52892bca987083e12f28c615ab2deddc59b47))
+
 ## 1.0.0 (2024-05-16)
 
 
