@@ -2,12 +2,15 @@
   "packages": {
     "apps/web": {
       "release-type": "node",
-      "package-name": "web"
+      "package-name": "web",
+      "include-component-in-tag": true
     },
     "apps/docs": {
       "release-type": "node",
-      "package-name": "docs"
+      "package-name": "docs",
+      "include-component-in-tag": true
     }
   },
-  "monorepo-tags": true
+  "monorepo-tags": true,
+  "include-v-in-tag": false
 }
