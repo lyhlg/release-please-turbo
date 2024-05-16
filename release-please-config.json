@@ -1,0 +1,13 @@
+{
+  "packages": {
+    "apps/web": {
+      "release-type": "node",
+      "package-name": "web"
+    },
+    "apps/docs": {
+      "release-type": "node",
+      "package-name": "docs"
+    }
+  },
+  "monorepo-tags": true
+}
